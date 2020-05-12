@@ -1,2 +1,4 @@
 Test git
 It's very difficult/
+Done!
+I'm happy!
